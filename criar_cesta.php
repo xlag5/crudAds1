@@ -424,7 +424,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['produtos'])) {
           
           <ul class="nav flex-column">
             <li class="nav-item">
-              <a class="nav-link" href="dashboard_main.php">
+              <a class="nav-link" href="dashboard.php">
                 <i class="fas fa-tachometer-alt"></i>
                 Dashboard
               </a>
